@@ -1,0 +1,2 @@
+com/machntek/prac/springboot/web/HelloControllerTest.java
+ com.machntek.prac.springboot.web.HelloControllerTest
