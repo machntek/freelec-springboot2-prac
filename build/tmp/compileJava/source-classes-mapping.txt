@@ -1,2 +1,0 @@
-com/machntek/prac/springboot/Application.java
- com.machntek.prac.springboot.Application
